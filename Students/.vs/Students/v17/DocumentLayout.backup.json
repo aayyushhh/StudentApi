@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentModelDB/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|c:\\users\\ayush.dodake\\source\\repos\\students\\students\\model\\studentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|solutionrelative:students\\model\\studentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Migrations\\20240921060953_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Students\\Migrations\\20240921060953_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|c:\\users\\ayush.dodake\\source\\repos\\students\\students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|solutionrelative:students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|c:\\users\\ayush.dodake\\source\\repos\\students\\students\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|solutionrelative:students\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|c:\\users\\ayush.dodake\\source\\repos\\students\\students\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|solutionrelative:students\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|c:\\users\\ayush.dodake\\source\\repos\\students\\students\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|solutionrelative:students\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|c:\\users\\ayush.dodake\\source\\repos\\students\\students\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|solutionrelative:students\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|c:\\users\\ayush.dodake\\source\\repos\\students\\students\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|solutionrelative:students\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|c:\\users\\ayush.dodake\\source\\repos\\students\\students\\data\\studentdbcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|solutionrelative:students\\data\\studentdbcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|c:\\users\\ayush.dodake\\source\\repos\\students\\students\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBD49C07-7905-4CA6-8729-406AB15113F7}|Students\\Students.csproj|solutionrelative:students\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Students [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentModelDB/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-21T06:13:59.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240921060953_ver1.cs",
+              "DocumentMoniker": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Migrations\\20240921060953_ver1.cs",
+              "RelativeDocumentMoniker": "Students\\Migrations\\20240921060953_ver1.cs",
+              "ToolTip": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Migrations\\20240921060953_ver1.cs",
+              "RelativeToolTip": "Students\\Migrations\\20240921060953_ver1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:09:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Students\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Students\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:58:12.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Students\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Students\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA7wBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:51:16.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Students\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "Students\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:50:50.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Students\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Services\\StudentService.cs",
+              "RelativeToolTip": "Students\\Services\\StudentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:50:19.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Students\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Students\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:48:53.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Program.cs",
+              "RelativeDocumentMoniker": "Students\\Program.cs",
+              "ToolTip": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Program.cs",
+              "RelativeToolTip": "Students\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:48:04.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\appsettings.json",
+              "RelativeDocumentMoniker": "Students\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\appsettings.json",
+              "RelativeToolTip": "Students\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T05:47:31.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDbContextDb.cs",
+              "DocumentMoniker": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Data\\StudentDbContextDb.cs",
+              "RelativeDocumentMoniker": "Students\\Data\\StudentDbContextDb.cs",
+              "ToolTip": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Data\\StudentDbContextDb.cs",
+              "RelativeToolTip": "Students\\Data\\StudentDbContextDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:45:26.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsModel.cs",
+              "DocumentMoniker": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Model\\StudentsModel.cs",
+              "RelativeDocumentMoniker": "Students\\Model\\StudentsModel.cs",
+              "ToolTip": "C:\\Users\\ayush.dodake\\source\\repos\\Students\\Students\\Model\\StudentsModel.cs",
+              "RelativeToolTip": "Students\\Model\\StudentsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:42:29.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

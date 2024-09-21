@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Student Management</title>
+        
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+        <style>
+       
+            body {
+                padding: 20px;
+            }
+            .form-group {
+                margin-bottom: 15px;
+            }
+            #studentsTable {
+                margin-top: 20px;
+            }
+        </style>
+    </head>
+    
+<body>
+    <div class="container">
+        <h1 class="my-4">Student Management</h1>
+        
+        <form id="studentForm">
+            <div class="form-group">
+                <label for="name">Student Name:</label>
+                <input type="text" class="form-control" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="age">Student Age:</label>
+                <input type="number" class="form-control" id="age" name="age" required>
+            </div>
+            <div class="form-group">
+                <label for="branch">Student Branch:</label>
+                <input type="text" class="form-control" id="branch" name="branch" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Student Email:</label>
+                <input type="email" class="form-control" id="email" name="email" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+
+        <button id="getAllStudentsBtn" class="btn btn-secondary mt-3">Display All Students</button>
+
+        <div class="form-group mt-4">
+            <label for="searchStudentId">Enter Student ID to Search:</label>
+            <div class="input-group">
+                <input type="number" class="form-control" id="searchStudentId">
+                <div class="input-group-append">
+                    <button id="searchStudentBtn" class="btn btn-info">Search</button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label for="deleteStudentId">Enter Student ID to Delete:</label>
+            <div class="input-group">
+                <input type="number" class="form-control" id="deleteStudentId">
+                <div class="input-group-append">
+                    <button id="deleteStudentBtn" class="btn btn-danger">Delete Student</button>
+                </div>
+            </div>
+        </div>
+        
+        <table id="studentsTable" class="table table-bordered mt-4">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Branch</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody id="studentsTableBody"></tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
+
+
+
+
